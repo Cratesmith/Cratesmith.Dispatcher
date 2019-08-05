@@ -1,0 +1,20 @@
+{
+    "name": "Cratesmith.Dispatcher.Tests",
+    "references": [
+        "cratesmith.runtimeutils",
+        "Cratesmith.Dispatcher"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

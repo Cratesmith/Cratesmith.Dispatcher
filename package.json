@@ -1,0 +1,16 @@
+{
+	"name": "com.cratesmith.dispatcher",
+	"displayName": "Cratesmith.Dispatcher",
+	"description": "A gameplay event model designed for decoupling achievements and analytics from game code.",
+	"version": "0.0.1-develop",
+	"unity": "2018.3",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Cratesmith/Cratesmith.Dispatcher.git"
+	},
+	"src": "Packages/Cratesmith.Dispatcher",
+	"author": "Kieran Lord <cratesmith@cratesmith.com> (https://github.com/cratesmith)",
+	"dependencies": {
+	}
+}
