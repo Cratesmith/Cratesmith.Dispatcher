@@ -1,7 +1,6 @@
 {
     "name": "Cratesmith.Dispatcher.Tests",
     "references": [
-        "cratesmith.runtimeutils",
         "Cratesmith.Dispatcher"
     ],
     "optionalUnityReferences": [
