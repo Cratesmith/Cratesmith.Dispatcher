@@ -2,7 +2,7 @@
 	"name": "com.cratesmith.dispatcher",
 	"displayName": "Cratesmith.Dispatcher",
 	"description": "A gameplay event model designed for decoupling achievements and analytics from game code.",
-	"version": "0.0.1-develop",
+	"version": "0.0.2",
 	"unity": "2018.3",
 	"license": "MIT",
 	"repository": {
