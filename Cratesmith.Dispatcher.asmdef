@@ -1,9 +1,8 @@
 {
     "name": "Cratesmith.Dispatcher",
     "references": [
-        "Cratesmith.Utils"
+        "Cratesmith.Collections"
     ],
-    "optionalUnityReferences": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
